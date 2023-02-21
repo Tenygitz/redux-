@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header{
+    background-color:#535377; 
+    padding: 20px;
+}
+.cart{
+    display: flex;
+    justify-content: space-between;
+    gap:10px
+}
